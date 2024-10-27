@@ -1,0 +1,2 @@
+1) Normal Security : If the file is accessed on another computer, it will prompt for an OTP (one-time password). If the entered OTP is incorrect, the file will be immediately deleted.
+2) Strong Security : Once the PC is authorization, the file will be restricted from being opened on any other PC. Any attempt to access the file on a different PC will result in immediate deletion without prior notice.
